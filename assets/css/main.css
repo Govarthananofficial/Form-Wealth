@@ -128,10 +128,6 @@ header {
   border: 1px solid #ffffff;
   font-size: 1.6rem;
   color: #ffffff;
-  /*
-    Button hover effect resource
-    https://codepen.io/alticreation/pen/zBZwOP
-    */
   display: inline-block;
   transition: all .3s;
   position: relative;
@@ -253,10 +249,6 @@ header {
   color: #ffffff;
   font-size: 1.8rem;
   box-shadow: 1px 10px 30px -10px #7d8928;
-  /*
-    Button hover effect resource
-    https://codepen.io/alticreation/pen/zBZwOP
-    */
   display: inline-block;
   transition: all .3s;
   position: relative;
@@ -476,10 +468,6 @@ header {
   width: 20rem;
   text-align: center;
   box-shadow: 1px 10px 30px -10px #7d8928;
-  /*
-    Button hover effect resource
-    https://codepen.io/alticreation/pen/zBZwOP
-    */
   display: inline-block;
   transition: all .3s;
   position: relative;
@@ -791,10 +779,6 @@ header {
   min-width: 25rem;
   margin-top: 4rem;
   box-shadow: 1px 10px 30px -10px #7d8928;
-  /*
-    Button hover effect resource
-    https://codepen.io/alticreation/pen/zBZwOP
-    */
   display: inline-block;
   transition: all .3s;
   position: relative;
